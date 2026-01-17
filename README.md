@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gaston Hernandez</h1>
-<h3 align="center">web developer JavaScript!;D</h3>
+<h3 align="center">web developer ;D</h3>
 <h3 align="center">made in Cordoba, Argentina</h3>
 
-- 🔭 My personal homepage [gastoncode](https://gastoncode.com)
 
-- 💬 Ask me about **JavaScript, ReactJs, Tailwindcss**
+
+- 💬 Ask me about **JavaScript, ReactJs, Tailwindcss, NextJs, PHP, MySQL**
 
 - 📫 How to reach me **hcesargaston@hotmail.com**
 
